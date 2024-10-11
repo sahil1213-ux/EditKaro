@@ -574,14 +574,6 @@ input:checked + .slider:before {
   max-width: 1440px;
 }
 
-/* .hero__content{
-  display: grid;
-    gap: 0.2rem;
-    justify-content: space-evenly;
-    align-items: baseline;
-    justify-items: flex-start;
-
-} */
 
 .hero__content h1 {
   font-size: var(--font-1);

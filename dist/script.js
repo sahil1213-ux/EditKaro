@@ -21,25 +21,6 @@ closeModalButton.addEventListener('click', function() {
   modalWrapper.style.display = 'none';
 });
 
-//   const openModalBtn = document.querySelector('#contact-us-btn');
-//   const closeModalBtn = document.querySelector('.close-modal');
-
-//   openModalBtn.addEventListener('click', (event) => {
-//       event.preventDefault();
-//       modalWrapper.classList.add('show');
-//   });
-
-//   closeModalBtn.addEventListener('click', () => {
-//       modalWrapper.classList.remove('show');
-//   });
-
-//   // Close modal when clicking outside of it
-//   window.addEventListener('click', (event) => {
-//       if (event.target === modalWrapper) {
-//           modalWrapper.classList.remove('show');
-//       }
-//   });
-// });
 
 document.addEventListener('DOMContentLoaded', () => {
   const modal = document.getElementById('videoModal');
