@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # EditKaro
 =======
-# EditKaro.in - Modern Marketing Agency Landing Page
+# EditKaro.in - Modern Marketing and Video Editing App
 
 EditKaro.in is a modern marketing agency landing page that empowers businesses to take their marketing strategies to new heights. With its sleek and captivating design, EditKaro.in offers a range of innovative features to help you achieve your marketing goals. Explore the immersive dark mode interface and leverage interactive marketing charts to gain valuable insights into your campaign performance. Join EditKaro.in today and unlock the potential to drive success for your business in the digital realm.
 
