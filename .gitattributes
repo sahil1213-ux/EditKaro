@@ -1,0 +1,7 @@
+dist/script.js linguist-language=JavaScript
+*.css linguist-language=CSS
+# test lang for github
+servicesVideos/Color[[:space:]]Grading.mp4 filter=lfs diff=lfs merge=lfs -text
+servicesVideos/Gaming[[:space:]]Edited[[:space:]]YT[[:space:]]Video.mp4 filter=lfs diff=lfs merge=lfs -text
+servicesVideos/Longformvideos/Long[[:space:]]Video[[:space:]]Youtube[[:space:]]Format.mp4 filter=lfs diff=lfs merge=lfs -text
+servicesVideos/short[[:space:]]form[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
